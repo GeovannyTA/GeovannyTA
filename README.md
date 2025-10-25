@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Geovanny Araujo and I'm a software developer, from México</h2>
+<h2 align="left">Hi 👋! My name is Geovanny Araujo and I'm a web developer, from México</h2>
 
 ###
 
